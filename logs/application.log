@@ -1,0 +1,29 @@
+2025-04-17 01:32:55 [main] INFO  Log - [HRM.qa.util.MyListener.onStart():20] Test Suite Started: Default test
+2025-04-17 01:32:55 [main] INFO  ExtentReportManager - Existing Extent Report deleted to overwrite.
+2025-04-17 01:32:55 [main] INFO  ExtentReportManager - Extent report initialized at: C:\Users\Shanu\eclipse-workspace1\HRM/test-output/ExtentReport.html
+2025-04-17 01:33:00 [main] INFO  Log - [HRM.qa.util.MyListener.onTestStart():27] Test Started: ValidateTitleTest
+2025-04-17 01:33:00 [main] INFO  ExtentReportManager - Created ExtentTest: ValidateTitleTest
+2025-04-17 01:33:00 [main] INFO  Log - [HRM.qa.util.MyListener.onTestSuccess():34] Test Passed: ValidateTitleTest
+2025-04-17 01:33:00 [main] INFO  ExtentReportManager - [PASS] Test Passed
+2025-04-17 01:33:05 [main] INFO  Log - [HRM.qa.util.MyListener.onTestStart():27] Test Started: ValidateLogoTest
+2025-04-17 01:33:05 [main] INFO  ExtentReportManager - Created ExtentTest: ValidateLogoTest
+2025-04-17 01:33:06 [main] INFO  Log - [HRM.qa.util.MyListener.onTestSuccess():34] Test Passed: ValidateLogoTest
+2025-04-17 01:33:06 [main] INFO  ExtentReportManager - [PASS] Test Passed
+2025-04-17 01:33:10 [main] INFO  Log - [HRM.qa.util.MyListener.onTestStart():27] Test Started: LoginAction
+2025-04-17 01:33:10 [main] INFO  ExtentReportManager - Created ExtentTest: LoginAction
+2025-04-17 01:33:10 [main] INFO  Log - [HRM.qa.util.MyListener.onTestSuccess():34] Test Passed: LoginAction
+2025-04-17 01:33:10 [main] INFO  ExtentReportManager - [PASS] Test Passed
+2025-04-17 01:33:20 [main] INFO  Log - [HRM.qa.util.MyListener.onTestStart():27] Test Started: PIMAction
+2025-04-17 01:33:20 [main] INFO  ExtentReportManager - Created ExtentTest: PIMAction
+2025-04-17 01:33:21 [main] INFO  Log - [HRM.qa.util.MyListener.onTestSuccess():34] Test Passed: PIMAction
+2025-04-17 01:33:21 [main] INFO  ExtentReportManager - [PASS] Test Passed
+2025-04-17 01:33:30 [main] INFO  Log - [HRM.qa.util.MyListener.onTestStart():27] Test Started: PIMAction
+2025-04-17 01:33:30 [main] INFO  ExtentReportManager - Created ExtentTest: PIMAction
+2025-04-17 01:33:30 [main] INFO  Log - [HRM.qa.util.MyListener.onTestSuccess():34] Test Passed: PIMAction
+2025-04-17 01:33:30 [main] INFO  ExtentReportManager - [PASS] Test Passed
+2025-04-17 01:33:40 [main] INFO  Log - [HRM.qa.util.MyListener.onTestStart():27] Test Started: PIMAction
+2025-04-17 01:33:40 [main] INFO  ExtentReportManager - Created ExtentTest: PIMAction
+2025-04-17 01:33:40 [main] INFO  Log - [HRM.qa.util.MyListener.onTestSuccess():34] Test Passed: PIMAction
+2025-04-17 01:33:40 [main] INFO  ExtentReportManager - [PASS] Test Passed
+2025-04-17 01:33:40 [main] INFO  Log - [HRM.qa.util.MyListener.onFinish():61] Test Suite Finished: Default test
+2025-04-17 01:33:41 [main] INFO  ExtentReportManager - Flushed extent reports.
